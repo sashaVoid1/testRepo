@@ -8,7 +8,7 @@
 3. Verify that the changes work as expected and no errors are thrown.
 
 ## ✅ Developer Checklist
-- [ ] I have performed a self-review of my own code.
+- [x] I have performed a self-review of my own code.
 - [ ] My changes do not break existing tests (or I have added new tests).
 - [ ] I have commented my code, particularly in hard-to-understand areas.
 - [ ] My code follows the style guidelines of this project.
